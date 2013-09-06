@@ -1,0 +1,7 @@
+<zimletConfig name="com_zimbra_googledrive" version="1.0">
+    <global>
+        <property name="ZimbraGoogleApiKey">YOUR API KEY</property>
+        <property name="ZimbraGoogleOAuthId">YOUR CLIENT ID</property>
+    </global>
+</zimletConfig>
+
